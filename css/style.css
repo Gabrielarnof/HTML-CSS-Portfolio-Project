@@ -2,7 +2,7 @@
     --normal-font: 400;
     --bold-font: 700;
     --bolder-font: 900;
-    --bg-color: #fcfcfc;
+    --bg-color: #451f1f;
     --primary-color: #4756df;
     --secondary-color: #ff7235;
     --primary-shadow: #8b8eaf;
@@ -38,4 +38,17 @@ a:hover {
 
 body {
     font-family: var(--font-family);
+}
+
+nav {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 3.5rem;
+    background-color: var(--bg-color);
+    box-shadow: 0 3px 5px rgba(155, 39, 39, 0.1);
 }
