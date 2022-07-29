@@ -85,7 +85,19 @@ nav {
 }
 
 .hero {
-    background-image: url("fondo.jpg");
+    background-image: url("images/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
     height: 100vh;
     width: 100%;
+
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    color: aliceblue;
+
 }
