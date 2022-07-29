@@ -100,3 +100,32 @@ nav {
 
 
 }
+
+h1 {
+    color: azure;
+    font-family: Verdana;
+    font-size: xxx-large;
+    letter-spacing: 1px;
+
+}
+
+h2 {
+    color: azure;
+    font-family: Verdana;
+    font-size: medium;
+    letter-spacing: 1px;
+}
+
+h3 {
+    color: azure;
+    font-family: Verdana;
+    font-size: x-medium;
+    letter-spacing: 1px;
+}
+
+h4 {
+    color: azure;
+    font-family: Verdana;
+    font-size: small;
+    letter-spacing: 1px;
+}
