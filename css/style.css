@@ -86,4 +86,6 @@ nav {
 
 .hero {
     background-image: url(..images/fondo1.jpg);
+    height: 100vh;
+    width: 100%;
 }
