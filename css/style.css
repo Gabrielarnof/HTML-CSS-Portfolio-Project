@@ -106,7 +106,8 @@ h1 {
     color: azure;
     font-family: Verdana;
     font-size: xxx-large;
-    color: #549b9b
+    color: #549b9b;
+    padding: 20px;
 }
 
 h2 {
@@ -116,7 +117,7 @@ h2 {
     letter-spacing: 1px;
 }
 
-h3 {
+h4 {
     color: azure;
     font-family: 'Franklin Gothic Medium';
     font-size: small;
@@ -124,7 +125,7 @@ h3 {
 
 }
 
-h4 {
+h3 {
     color: azure;
     font-family: Verdana;
     font-size: small;
@@ -134,7 +135,8 @@ h4 {
     gap: 2.5rem;
     max-width: 35.75rem;
     margin: auto;
-    line-height: 1.6;
-
-
+    line-height: 1.5;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: .67em
 }
