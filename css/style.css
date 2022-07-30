@@ -82,6 +82,7 @@ nav {
     padding: 1rem 1rem;
     background-color: var(--bg-color);
     box-shadow: 0 3px 5px rgba(155, 39, 39, 0.1);
+    width: 100vw;
 }
 
 .hero {
