@@ -96,9 +96,7 @@ nav {
 }
 
 .content {
-    position: absolute;
-    top: 50%;
-    left: 8%
+    width: 60%
 }
 
 .myphoto {
