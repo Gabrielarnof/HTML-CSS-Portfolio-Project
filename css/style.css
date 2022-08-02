@@ -120,9 +120,9 @@ h1 {
 }
 
 h2 {
-    color: azure;
+    color: rgb(68, 137, 137);
     font-family: Verdana;
-    font-size: medium;
+    font-size: larger;
     letter-spacing: 1px;
     margin-bottom: var(--bottom-margin);
 }
@@ -144,4 +144,27 @@ h3 {
     text-justify: inter-word;
 
     margin-bottom: var(--bottom-margin);
+}
+
+.skills {
+    max-width: 68.75rem;
+    margin: auto;
+    text-align: center;
+    margin-top: 2.5rem;
+    color: #030524;
+
+
+}
+
+.skill-header {
+    margin-bottom: 1rem;
+}
+
+.skills-wrapper img {
+    padding: 1.25rem;
+}
+
+.icon {
+    width: 11.875rem;
+    height: 11.25rem;
 }
