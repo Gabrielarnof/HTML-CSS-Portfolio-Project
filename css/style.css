@@ -173,6 +173,9 @@ h3 {
     height: 11.25rem;
 }
 
+@media only screen and (max-width: 950px) {}
+
+
 @media only screen and (max-width: 600px) {
     nav ul {
         flex-wrap: wrap;
@@ -182,10 +185,12 @@ h3 {
         flex-direction: column;
         align-items: center;
         height: auto;
+        padding: 60px 1rem;
     }
 
     .content {
         width: 100%;
+        padding-top: ;
     }
 
     .myphoto {
