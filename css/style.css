@@ -181,6 +181,7 @@ h3 {
         flex-wrap: wrap;
     }
 
+
     .hero {
         flex-direction: column;
         align-items: center;
@@ -190,7 +191,7 @@ h3 {
 
     .content {
         width: 100%;
-        padding-top: ;
+        ;
     }
 
     .myphoto {
